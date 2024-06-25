@@ -1,6 +1,6 @@
 
 
-
+"""Add code snippet"""
 
 def summary(*universe):
     pass
